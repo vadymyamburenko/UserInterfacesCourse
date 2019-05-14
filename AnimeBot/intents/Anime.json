@@ -1,0 +1,55 @@
+{
+  "id": "a17f2367-3020-43f8-bb20-4746e6e5914a",
+  "name": "Anime",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b7039c07-eba3-4873-828f-1708b7a5cb1c",
+          "required": true,
+          "dataType": "@Status",
+          "name": "status",
+          "value": "$status",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Хотите онгоинг или вышедшее аниме"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "a073e18e-2886-4917-858f-11a723588ff0",
+          "required": true,
+          "dataType": "@Genre",
+          "name": "genre",
+          "value": "$genre",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какой жанр вы хотите?"
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Сейчас выполню поиск в базе данных для $status аниме  жанра $genre"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

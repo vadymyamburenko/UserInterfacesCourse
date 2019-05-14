@@ -1,0 +1,86 @@
+[
+  {
+    "id": "4c6348bd-ad02-49d9-b558-2b0e40a929a5",
+    "data": [
+      {
+        "text": "я бы посмотрел ",
+        "userDefined": false
+      },
+      {
+        "text": "драму",
+        "alias": "genre",
+        "meta": "@Genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "787cf5b5-95b1-482d-ac11-748e33760a7e",
+    "data": [
+      {
+        "text": "Мои любимые аниме жанра ",
+        "userDefined": false
+      },
+      {
+        "text": "комедия",
+        "alias": "genre",
+        "meta": "@Genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66edc052-9b41-4cde-bb22-3efc358b9ca0",
+    "data": [
+      {
+        "text": "Хочу аниме в жанре ",
+        "userDefined": false
+      },
+      {
+        "text": "вестерн",
+        "alias": "genre",
+        "meta": "@Genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4ff51fd-1f98-4918-9d02-b8543c1f6a0f",
+    "data": [
+      {
+        "text": "Я хочу посмотреть анимешку",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0738bea-7c5e-4865-aea9-81ddd4af312f",
+    "data": [
+      {
+        "text": "Анимеху бы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21451fee-446a-4017-8296-d6e64209eb79",
+    "data": [
+      {
+        "text": "Хочу аниме",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

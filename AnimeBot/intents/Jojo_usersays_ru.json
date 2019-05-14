@@ -1,0 +1,35 @@
+[
+  {
+    "id": "6e58cd83-0ecb-4bd6-b311-ae7f0002a07a",
+    "data": [
+      {
+        "text": "Джо Джо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c0ecfb1-6197-483e-8002-2cf7711c8914",
+    "data": [
+      {
+        "text": "Жыжа",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eec54241-bdf8-4e58-9075-553280418c75",
+    "data": [
+      {
+        "text": "Жожа",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
